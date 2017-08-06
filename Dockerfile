@@ -1,5 +1,5 @@
 FROM node:5.7.1-slim
-MAINTAINER Ringtail  
+MAINTAINER prisonbreaker  
 
 ADD ./ /workspace
 
